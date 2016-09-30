@@ -1,4 +1,4 @@
-[Official Repo](https://www.autoitscript.com/forum/topic/184678-an-improved-guictrlsetonevent/)
+[Official Thread](https://www.autoitscript.com/forum/topic/184678-an-improved-guictrlsetonevent/)
 
 #### GOOD 2 KNOW
 * `GuiDelete($hWnd)` used together with **$WM_LBUTTONUP** will cause the AutoIt script to crash
